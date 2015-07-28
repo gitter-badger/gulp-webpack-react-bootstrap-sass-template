@@ -1,5 +1,7 @@
 # Gulp + Webpack (CoffeeScript, Sass, JSX) + React + Bootstrap for Sass
 
+[![Join the chat at https://gitter.im/glebm/gulp-webpack-react-bootstrap-sass-template](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/glebm/gulp-webpack-react-bootstrap-sass-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a template for a client-side web app compiled using Gulp with Webpack. Bootstrap for Sass and React included.
 
 ## Running
